@@ -1,0 +1,15 @@
+.clubsbg{
+    /* background-color: rgba(30, 30, 30, 0.5);; */
+    height:100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.tags-input{
+    border: none;
+    outline: none;
+    flex-grow: 1;
+}

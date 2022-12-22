@@ -1,0 +1,15 @@
+.icons{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.logo{
+    background-image: url("Logo.jpg");
+    border-radius: 50%;
+}

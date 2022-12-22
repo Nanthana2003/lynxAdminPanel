@@ -1,0 +1,3 @@
+newclub={setNewclub} newmail={setMail} canpost={setPost}
+
+, newclub,newmail,canpost
